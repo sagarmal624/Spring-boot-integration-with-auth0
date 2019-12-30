@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth0-spring-security-mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/auth0-spring-security-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth0-spring-security-mvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth0-spring-security-mvc_main.iml" group="auth0-spring-security-mvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth0-spring-security-mvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth0-spring-security-mvc_test.iml" group="auth0-spring-security-mvc" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.auth0:java-jwt:3.8.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.auth0/java-jwt/3.8.3/b418d6028e3499671a0eb017907d9e29e265e503/java-jwt-3.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.auth0/java-jwt/3.8.3/b6f8d02cc3c40c56e0ae547a2f0ddbb6f28ead29/java-jwt-3.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
